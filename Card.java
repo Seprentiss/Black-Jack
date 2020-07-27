@@ -1,3 +1,5 @@
+//Class that creates a card
+
 package Game;
 
 public class Card {
