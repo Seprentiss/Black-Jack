@@ -1,3 +1,7 @@
+//Created By Spencer Prentiss
+
+// Black Jack game manager
+
 package Game;
 
 import java.util.Scanner;
