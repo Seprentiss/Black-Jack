@@ -1,3 +1,5 @@
+//Suit Enum
+
 package Game;
 
 public enum Suit {
